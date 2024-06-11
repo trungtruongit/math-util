@@ -12,21 +12,16 @@ import javax.swing.JOptionPane;
  * @author ASUS
  */
 public class MathUtil1 {
-<<<<<<< HEAD
     
     // modify code in local, later upload to server
-    public static void printMsg() {
-        
-    }
-=======
-
+    public static void printMsg() {}
     // MODIFY CODE DIRECTLY IN SERVER - TO SIMULATE A CASE WHERE TEAM MEMBER
     // UPLOAD CODE
     public void SayHelloFromServer(){
-        
+       
     }
     
->>>>>>> 6e0cabddc9de7fe748471a0f6d06e800e313eaf4
+
     public static void main(String[] args) {
         
         int n = 0;
