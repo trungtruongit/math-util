@@ -4,14 +4,14 @@
 
 ## You will find in this repo the following stuff
 
-* A Java Project (using Maven) to demonstrate a Math library as in JDK
-* A Unit Test test script using JUnit Test framework and TDD, DTT technique
-* A CI script to demonstrate the Continuous Integration using GitHub Actions
-* The demonstration of using recursion 
-* and more...
+-   A Java Project (using Maven) to demonstrate a Math library as in JDK
+-   A Unit Test test script using JUnit Test framework and TDD, DTT technique and Regression Testing techniques
+-   A CI script to demonstrate the Continuous Integration using GitHub Actions
+-   Demonstrate the source code confliction on pushing
+-   The demonstration of using recursion
+-   and more...
 
 ## Screenshots
-
 
 ![Source code and test script](https://github.com/trungtruongit/math-util1/blob/main/screenshots/SourceCodeAndUntit.png)
 
