@@ -6,7 +6,8 @@
 
 * A Java Project (using Maven) to demonstrate a Math library as in JDK
 * A Unit Test test script using JUnit Test framework and TDD, DTT technique
-* A CI script to demonstrate the Continous Integration using GitHub Actions
+* A CI script to demonstrate the Continuous Integration using GitHub Actions
+* The demonstration of using recursion 
 * and more...
 
 ## Screenshots
