@@ -61,3 +61,13 @@ public class MathUtility {
 // n! = n x (n - 1)! công thức đệ quy - recursion
 
 // Búp bê người Nga
+
+// NẾU TA XÀI CI TRONG PROJECT, THÌ LỢI ĐIỂM LÀ MỖI LẦN SỬA CODE, DÂN DEV
+// KO CẦN MẤT SỨC TEST LẠI CODE CỦA MÌNH ĐÚNG SAI, DO CƠ CHẾ TỰ ĐỘNG
+// RUN TEST CASE CỦA CI LO GIÚP
+
+// TOÀN BỘ VIỆC TEST LẠI CODE ĐC TỰ ĐỘNG HOÁ, PM, DEV CHỈ CẦN NHÌN MÀU XANH 
+// LÀ ĐỦ, BIẾT RÀNG VIỆC SỬA CODE NGON, VÌ PASS ĐC BỘ TEST
+
+// VIỆC TEST LẠI HÀM ĐÃ TỪNG TEST => REGRESSION TESTING
+//                                => KIỂM THỬ HỒI QUY
